@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g7x6iOP6f6m8Bs9exAS3nZCIiNTiPvid/PBVQcGNxGg=",
+  "Source": "YLB.LoadBalancer",
+  "BasePath": "_content/YLB.LoadBalancer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

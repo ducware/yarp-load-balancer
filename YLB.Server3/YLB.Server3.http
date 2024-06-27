@@ -1,0 +1,6 @@
+@YLB.Server3_HostAddress = http://localhost:5264
+
+GET {{YLB.Server3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

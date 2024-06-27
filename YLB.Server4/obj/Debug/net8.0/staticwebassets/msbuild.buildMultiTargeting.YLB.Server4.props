@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YLB.Server4.props" />
+</Project>

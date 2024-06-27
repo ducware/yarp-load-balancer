@@ -1,0 +1,6 @@
+@YLB.Gateway_HostAddress = http://localhost:5029
+
+GET {{YLB.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
